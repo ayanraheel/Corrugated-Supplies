@@ -128,6 +128,7 @@ OCR tools such as PyTesseract and EasyOCR were employed to extract and analyze l
 - Ayan Raheel
 - Thomas Shi
 - Nia Gangar
+- Chris Saldivar
 
 ## License
 
